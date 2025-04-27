@@ -1,2 +1,2 @@
 Archivo modificado en clon
-2
+Editar desde remoto
